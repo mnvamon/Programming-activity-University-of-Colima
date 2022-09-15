@@ -1,0 +1,11 @@
+C:\Users\Alumno\Documents\Conversor\Conversor\bin\Debug\Conversor.exe.config
+C:\Users\Alumno\Documents\Conversor\Conversor\bin\Debug\Conversor.exe
+C:\Users\Alumno\Documents\Conversor\Conversor\bin\Debug\Conversor.pdb
+C:\Users\Alumno\Documents\Conversor\Conversor\obj\Debug\Conversor.csproj.AssemblyReference.cache
+C:\Users\Alumno\Documents\Conversor\Conversor\obj\Debug\Conversor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Documents\Conversor\Conversor\obj\Debug\Conversor.CONVERSOR.resources
+C:\Users\Alumno\Documents\Conversor\Conversor\obj\Debug\Conversor.Properties.Resources.resources
+C:\Users\Alumno\Documents\Conversor\Conversor\obj\Debug\Conversor.csproj.GenerateResource.cache
+C:\Users\Alumno\Documents\Conversor\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\Conversor\Conversor\obj\Debug\Conversor.exe
+C:\Users\Alumno\Documents\Conversor\Conversor\obj\Debug\Conversor.pdb
